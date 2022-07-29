@@ -24,7 +24,7 @@ WHEN I am shown a beverage THEN I can select if I like the recommendation or not
 
 <u><i>WIREFRAME</i></u>
 
-<img src="./assets/WIP_wireframe.png" alt="Awesome mock-up of our soon-to-be-awesome app" />
+<img src="./Assets/WIP_wireframe.png" alt="Awesome mock-up of our soon-to-be-awesome app" />
 
 <br>
 
